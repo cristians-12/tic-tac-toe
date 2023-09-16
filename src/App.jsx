@@ -63,7 +63,7 @@ function App() {
   return (
     <main className="board">
 
-      <h1>Tricki</h1>
+      <h1>Juego tablero</h1>
 
       <button onClick={resetGame}>Reset juego</button>
 
